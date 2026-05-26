@@ -273,14 +273,4 @@ Potential future enhancements:
 
 Tanisha Poojary
 
----
 
-# ⭐ Project Status
-
-✅ Completed  
-✅ Dashboard Developed  
-✅ Explainable AI Implemented  
-✅ Ready for Portfolio & Internship Submission
-=======
-# Real-Time-Fraud-Detection-with-Explainable-AI-and-Dashboard
->>>>>>> a4dc424247ed3c9088761a19ca53cf8ed13374f8
